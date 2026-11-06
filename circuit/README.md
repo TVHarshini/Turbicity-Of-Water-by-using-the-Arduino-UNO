@@ -9,7 +9,7 @@ The system uses an analog turbidity sensor to measure the clarity of water. The 
 
 ## 2. Circuit Diagram
 
-![Water Turbidity Monitoring Circuit Diagram](circuit_diagram.png)
+![Water Turbidity Monitoring Circuit Diagram](Arduino%20Water%20Turbidity%20Monitoring%20Diagram.png)
 
 ## 3. Components Required
 
